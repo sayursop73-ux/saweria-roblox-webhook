@@ -1,0 +1,9 @@
+{
+  "name": "saweria-roblox-webhook",
+  "version": "1.0.0",
+  "description": "Webhook server to forward Saweria donations to Roblox",
+  "main": "api/webhook.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
